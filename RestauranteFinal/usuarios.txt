@@ -1,0 +1,4 @@
+admin,admin123,Administrador
+gerente,gerente123,Gerente
+capitan,capitan123,Capitan
+mesero,mesero123,Mesero
